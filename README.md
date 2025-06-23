@@ -1,5 +1,6 @@
 **Toronto Crime Heat-Map
 **
+
 Visualise 2024 assault + robbery rates for every Toronto neighbourhood on an interactive, zoomable web map built with pandas · GeoPandas · Folium.
 
 This repo turns two open datasets—Toronto neighbourhood polygons and crime counts—into a heat-map HTML file you can open in any browser or embed in a web page. The workflow:
